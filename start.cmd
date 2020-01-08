@@ -1,0 +1,1 @@
+python64 main.py
